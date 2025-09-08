@@ -2,14 +2,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-08-30 02:07:38
+# UPDATED: 2025-09-08 02:07:40
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31834
+# DOMAIN-SUFFIX: 31838
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # USER-AGENT: 46
-# TOTAL: 32142
+# TOTAL: 32146
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,02weqj32.com
@@ -5125,6 +5125,8 @@ DOMAIN-SUFFIX,bsw.co.jp
 DOMAIN-SUFFIX,bsw.jp
 DOMAIN-SUFFIX,bsxm1213.pro
 DOMAIN-SUFFIX,bt2mag.com
+DOMAIN-SUFFIX,bt4g.org
+DOMAIN-SUFFIX,bt4gprx.com
 DOMAIN-SUFFIX,bt95.com
 DOMAIN-SUFFIX,btaia.com
 DOMAIN-SUFFIX,btas.ac.uk
@@ -15157,6 +15159,7 @@ DOMAIN-SUFFIX,iphoto.se
 DOMAIN-SUFFIX,iphoto.wang
 DOMAIN-SUFFIX,ipi.ac.uk
 DOMAIN-SUFFIX,ipicture.ru
+DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipjetable.net
 DOMAIN-SUFFIX,ipleadership.org
@@ -26580,6 +26583,7 @@ DOMAIN-SUFFIX,tandf.co.uk
 DOMAIN-SUFFIX,tanflix.com
 DOMAIN-SUFFIX,tangben.com
 DOMAIN-SUFFIX,tangren.us
+DOMAIN-SUFFIX,tanks.gg
 DOMAIN-SUFFIX,taoil-cn.sbs
 DOMAIN-SUFFIX,taoism.net
 DOMAIN-SUFFIX,taolun.info
